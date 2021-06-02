@@ -1,4 +1,5 @@
-# Let's talk about Abdullah [![HitCount](http://hits.dwyl.com/iabduul7/iabduul7.svg)](http://hits.dwyl.com/iabduul7/iabduul7)
+# Let's talk about Abdullah 
+<!-- [![HitCount](http://hits.dwyl.com/iabduul7/iabduul7.svg)](http://hits.dwyl.com/iabduul7/iabduul7) -->
 
 As someone who is always passionate for learning more about new technologies and experiencing old ones. Abdullah grew up developing python scripts, responsive android applications and ever since he's a self taught app developer. From those humble beginnings, he has evolved into a Mobile Application Developer who loves working with cutting edge tools and technologies, experimenting design×development×data integrations and keen to share his experience with people around the world. He, like any developer who has burnt the midnight oil, knows how to make a mean cup of coffee ☕️ but he loves having a cup of tea more than coffee!
 
