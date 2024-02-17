@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with him:</h3>
 <p align="left">
+<a href="https://www.facebook.com/iabduul.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-plain.svg" alt="facebook.com/iabduul.7" height="30" width="40" />
 <a href="https://codepen.io/iabduul7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/iabduul7" height="30" width="40" /></a>
 <a href="https://twitter.com/iabduul7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/iabduul7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iabduul7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/iabduul7" height="30" width="40" /></a>
