@@ -15,8 +15,8 @@
 <p align="left">
 <a href="https://www.facebook.com/iabduul.7" style="text-decoration:none" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="facebook.com/iabduul.7" height="30" width="40" />
 <a href="https://codepen.io/iabduul7" style="text-decoration:none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/iabduul7" height="30" width="40" /></a>
-<a href="https://twitter.com/iabduul7" style="text-decoration:none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/iabduul7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iabduul7" style="text-decoration:none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/iabduul7" height="30" width="40" /></a>
+<a href="https://twitter.com/iabduul7" style="text-decoration:none" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter.com/iabduul7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iabduul7" style="text-decoration:none" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin.com/in/iabduul7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iabduul7" style="text-decoration:none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/iabduul7" height="30" width="40" /></a>
 </p>
 
