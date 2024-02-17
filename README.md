@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">As someone who is always passionate for learning more about new technologies and experiencing old ones. Abdullah grew up developing python scripts, responsive android applications and ever since he's a self taught app developer. From those humble beginnings, he has evolved into a Mobile Application Developer who loves working with cutting edge tools and technologies, experimenting design×development×data integrations and keen to share his experience with people around the world. He, like any developer who has burnt the midnight oil, knows how to make a mean cup of coffee ☕️ but he loves having a cup of tea more than coffee!</h3>
+<h3 align="center">As someone who is always passionate about learning more about new technologies and experiencing old ones. Abdullah grew up developing Python scripts, and responsive Android applications, and ever since he's been a self-taught app developer. From those humble beginnings, he has evolved into a Mobile Application Developer who loves working with cutting-edge tools and technologies, experimenting design×development×data integrations, and is keen to share his experience with people around the world. He, like any developer who has burnt the midnight oil, knows how to make a mean cup of coffee ☕️ but he loves having a cup of tea more than coffee!</h3>
 
 - 🌱 Currently learning **Flutter, Next.js**
 
-- 👨‍💻 **Working from Home now-a-days**. All of projects are available at [iabduul7](https://github.com/iabduul7)
+- 👨‍💻 **Working from Home now-a-days**. All of the projects are available at [iabduul7](https://github.com/iabduul7)
 
 - 💬 Ask him about **Laravel, VueJs, React Native, JavaScript, Firebase, Python**
 
@@ -13,11 +13,11 @@
 
 <h3 align="left">Connect with him:</h3>
 <p align="left">
-<a href="https://www.facebook.com/iabduul.7" style="text-decortation:none" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="facebook.com/iabduul.7" height="30" width="40" />
-<a href="https://codepen.io/iabduul7" style="text-decortation:none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/iabduul7" height="30" width="40" /></a>
-<a href="https://twitter.com/iabduul7" style="text-decortation:none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/iabduul7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iabduul7" style="text-decortation:none"**** target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/iabduul7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iabduul7" style="text-decortation:none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/iabduul7" height="30" width="40" /></a>
+<a href="https://www.facebook.com/iabduul.7" style="text-decoration:none" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="facebook.com/iabduul.7" height="30" width="40" />
+<a href="https://codepen.io/iabduul7" style="text-decoration:none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/iabduul7" height="30" width="40" /></a>
+<a href="https://twitter.com/iabduul7" style="text-decoration:none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/iabduul7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iabduul7" style="text-decoration:none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/iabduul7" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/iabduul7" style="text-decoration:none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/iabduul7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
